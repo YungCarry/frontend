@@ -23,11 +23,11 @@ while( i > 4)
 
 const szamok2 = [1, 2, 3, 4, 5, 6, 7, 8];
 
-/*szamok2.forEach((e) => {
+szamok2.forEach((e) => {
   console.log(e);
 });
-*/
 
-//szamok2.forEach((e) => console.log(e * 2));
+
+szamok2.forEach((e) => console.log(e * 2));
 
 const szuro = szamok.filter((e) => e > 3).forEach((e) => console.log(e));
