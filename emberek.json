@@ -10,6 +10,6 @@
         "name": "Jane",
         "age": 25,
         "city": "New York",
-        "children": ["Tom"]
+        "children": ["Tom "]
     }
 ]
